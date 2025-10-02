@@ -38,7 +38,7 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
   color: #fff;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', times news roman;
   z-index: 9999;
   animation: fadeOut 3s ease 2s forwards; 
 }
